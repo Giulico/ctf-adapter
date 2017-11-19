@@ -1,0 +1,19 @@
+{
+  "name": "ctf-adapter",
+  "version": "1.0.0",
+  "description": "A custom template for create-from-template",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giulico/ctf-adapter.git"
+  },
+  "author": "Giulio Collese <giuliocollesei@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Giulico/ctf-adapter/issues"
+  },
+  "homepage": "https://github.com/Giulico/ctf-adapter#readme"
+}
